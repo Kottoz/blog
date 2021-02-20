@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Kotoz"
-email: "mohamedtareck95@gmail.com"
-description:  """I’m a computer engineer and educator, interested in converting numbers into life meaning activities.
-Exploring how new technologies can help young people develop as creative thinkers."""
+title: Kotoz
+email: mohamedtareck95@gmail.com
+description: >- 
+I’m a computer engineer and educator, interested in converting numbers into life meaning activities.
+Exploring how new technologies can help young people develop as creative thinkers.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kottoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "kotozman"
