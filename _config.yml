@@ -30,7 +30,7 @@ twitter_username: kotozman
 github_username:  Kottoz
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
